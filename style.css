@@ -28,6 +28,7 @@ body {
 .build-body {
 	margin-left: 500px;
 	margin-right: 500px;
+	padding-top: 20px;
 }
 
 h1, h2, h3, h4, h5, h6, p {
@@ -38,6 +39,11 @@ img.material {
 	float: right;
 	margin-top: -200px;
 	margin-right: 150px;
+}
+
+.navbar {
+	position: sticky;
+	top: 0;
 }
 
 p.material {
