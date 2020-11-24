@@ -35,11 +35,10 @@ h1, h2, h3, h4, h5, h6, p {
 	color: #ffffff;
 }
 
-img.material {
-	float: right;
-	margin-top: -200px;
-	margin-right: 150px;
+.mt-n10 {
+	margin-top: -240px;
 }
+
 
 .navbar {
 	position: sticky;
